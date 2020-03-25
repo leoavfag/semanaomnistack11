@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://i.imgur.com/4NlNiKB.jpg" alt="Omnistack 10" width="700" />
+<img src="https://i.imgur.com/4NlNiKB.jpg" alt="Omnistack 10" width="400" />
 <br>
 OmniStack 11
 </h1>
